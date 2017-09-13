@@ -20,3 +20,26 @@ echo "Fetching file..."
 curl -L http://npk.io/aMPCOe+ -o data/raw_data/crab_rRNA.fasta #will download and name file into the right directory
 
 echo "Done!"
+
+#Add .gitkeep to empty files
+
+echo "Will now add .gitkeep to empty folders" 
+
+cd code
+touch .gitkeep 
+cd ..
+cd data
+touch .gitkeep
+cd ..
+cd output
+touch .gitkeep
+cd ..
+cd output/figures
+touch .gitkeep
+cd ..
+cd ..
+cd output/tables
+touch .gitkeep
+
+echo "Done!"
+
