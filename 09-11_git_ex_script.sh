@@ -28,4 +28,26 @@ echo "Creating blank Readme!"
 
 touch README.md
 
+#Add invisible
+
+cd 2017-09_13_git_flow_exercise_CS640
+
+touch .gitkeep
+
+cd code
+
+touch .gitkeep
+
+cd ..
+
+cd output/figures
+
+touch .gitkeep
+
+cd ..
+
+cd output/tables
+
+touch .gitkeep
+
 echo "Finished!"
