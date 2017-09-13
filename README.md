@@ -1,5 +1,9 @@
-# Git Flow exercise for CS 640
-## September 11, 2017
+#!/bin/bash
+
+
+#Script for Git Flow exercise for CS 640
+#Devin Pineda jdpineda@usfca.edu
+#September 11, 2017
 
 Steps:
 
