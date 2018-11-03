@@ -1,5 +1,3 @@
-#A bash script to setup series of directories with fasta file for first git push exercise
-
 # Allison Bogisich, asbogisich@dons.usfca.edu
 
 # Sept. 12, 2017
